@@ -36,7 +36,7 @@ class cache
 
         $response = $next($request);
 
-        $response->header('Cache-Control','no-store, no-cache, must-revalidate, max-age=0');
+        $response->header('Cache-Control','no-store, no-cache, must-revalidate, max-age=0, s-maxage=0');
 
         return $response;
 
