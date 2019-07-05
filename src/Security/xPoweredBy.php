@@ -32,7 +32,7 @@ class xPoweredBy
 
         $response = $next($request);
 
-        // remove X-Poweted-By from Response
+        // remove X-Powered-By from Response
         header_remove("X-Powered-By");
 
         return $response;
