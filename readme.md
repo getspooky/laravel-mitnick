@@ -9,8 +9,7 @@
 	<a href="">
 		<img src="https://img.shields.io/badge/version-1.0.0-yellow.svg" title="Version">
 	</a>
-
-	<a href="">
+<a href="">
     	<img src="https://img.shields.io/badge/license-MIT-blue.svg" title="MIT License">
     </a>
 </p>
