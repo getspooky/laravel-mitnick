@@ -1,6 +1,8 @@
-## Laravel-Mitnick
+# Laravel-Mitnick
 
 ![Packagist Downloads](https://img.shields.io/packagist/dt/mitnick/laravel-security?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/getspooky/Laravel-Mitnick?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/getspooky/Laravel-Mitnick?style=for-the-badge)
 
 Laravel-Mitnick helps you secure your Laravel apps by setting various HTTP headers. It's not a silver bullet, but it can help!
 
