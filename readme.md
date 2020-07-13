@@ -1,27 +1,15 @@
-<p align="center">
-<img width="250" height="250" src="https://drive.google.com/uc?id=1MnlGAUOjXefa07GZU3yenF03G3re8Idu">
-</p>
+## Laravel-Mitnick
 
-<p align="center">
-	<a href="">
-		<img src="https://img.shields.io/badge/build-passing-green.svg" title="Stable Release">
-	</a>
-	<a href="">
-		<img src="https://img.shields.io/badge/version-1.0.0-yellow.svg" title="Version">
-	</a>
-<a href="">
-    	<img src="https://img.shields.io/badge/license-MIT-blue.svg" title="MIT License">
-    </a>
-</p>
+![Packagist Downloads](https://img.shields.io/packagist/dt/mitnick/laravel-security?style=for-the-badge)
 
-## Why Laravel-Mitnick
-
-Laravel-Mitnick helps you secure your Laravel apps by setting various HTTP headers. it can help!
+Laravel-Mitnick helps you secure your Laravel apps by setting various HTTP headers. It's not a silver bullet, but it can help!
 
 ## Quick start
 
 First, You can install the package via composer: 
- <pre> composer require mitnick/laravel-security </pre> 
+```sh
+composer require mitnick/laravel-security 
+```
 
 ## Documentation
 
