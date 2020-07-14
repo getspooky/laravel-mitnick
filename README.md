@@ -26,6 +26,8 @@ Laravel-Mitnick  has a few requirements you should be aware of before installing
 
 ## Solved : Security vulnerability
 
+Laravel-Mitnick is a collection of 9 smaller middleware functions that set HTTP response headers.
+
 | Vulnerability | Middleware Class  |   Included
 | ------- | --- | --- |
 | Cache Control Attack | Mitnick\Laravel\Security\cache::class |  ✔
