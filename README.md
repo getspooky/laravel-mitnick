@@ -37,7 +37,12 @@ Laravel-Mitnick  has a few requirements you should be aware of before installing
 | Mime Sniffing Attack | Mitnick\Laravel\Security\noSniff::class |✔
 | X-Powered-By Attack  | Mitnick\Laravel\Security\xPoweredBy::class | ✔
 | XSS Attack | Mitnick\Laravel\Security\xss::class |✔
-  
+
+
+## Contributing 
+
+Whether you're helping us fix bugs, improve the docs, or spread the word, we'd love to have you as part of the `Laravel-Mitnick` community! 💪💜  See CONTRIBUTING.md for more information on what we're looking for and how to get started.
+
 ## License
 
 The Laravel-Mitnick package is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
