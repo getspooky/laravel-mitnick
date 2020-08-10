@@ -1,4 +1,4 @@
-# Laravel-Mitnick
+# 🔐 Laravel-Mitnick
 
 ![Packagist Downloads](https://img.shields.io/packagist/dt/mitnick/laravel-security?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/getspooky/Laravel-Mitnick?style=for-the-badge)
