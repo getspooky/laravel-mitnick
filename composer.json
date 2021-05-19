@@ -1,7 +1,7 @@
 {
   "name": "mitnick/laravel-security",
   "type": "package",
-  "description": "Laravel-Mitnick helps you secure your Laravel apps by setting various HTTP headers. it can help!",
+  "description": "laravel-mitnick helps you secure your Laravel apps by setting various HTTP headers. it can help!",
   "authors": [
     {
       "name": "Yasser Ameur el idrissi",
